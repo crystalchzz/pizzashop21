@@ -27,4 +27,4 @@ https://miro.com/app/board/o9J_lnLHO7c=/
 ## Git workflow and deployment
 1. Testing will be done on the dev branch
 1. After all the tests pass, it will be deployed to the Heroku server
-1. After the development finished, the dev branch will be merged to the main branch
+1. After the development finished, the dev branch will be merged to the main branch# pizzashop21
