@@ -1,6 +1,6 @@
 # pizzashop
 A group project for the Bitcoin team
-![](screenshot.png)
+
 ## Deployment on Heroku
 https://pizzashop-dev.herokuapp.com/
 
