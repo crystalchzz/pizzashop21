@@ -3,8 +3,8 @@ const database = require('knex')(development)
 
 // showing SQL
 database.on('query', (data) => {
-    console.log('SQL', data.sql)
-    console.log('Bindings', data.bindings)
+    console.log('SQL')
+    console.log('Bindings')
 })
 
 module.exports = {
