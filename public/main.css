@@ -93,6 +93,11 @@ body {
     /* flex: 6; */
 }
 
+h3 { 
+    color: burlywood;
+    font-size: 1.5em;
+}
+
 button {
     transition: all .5s ease;
     cursor: pointer;
