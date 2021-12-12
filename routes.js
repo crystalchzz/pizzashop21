@@ -8,7 +8,7 @@ router.get('/home', (req, res) => {
             const pizzaObj = {
                 result: result
             }
-            console.log(pizzaObj);
+            // console.log(pizzaObj);
             res.render('home', pizzaObj)
             return null
         })
